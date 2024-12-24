@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Harshita Brella: Family wants 'justice' for their daughter",
+        "description": "The family of Ms Brella tell the BBC she moved to the UK in April after marrying the man suspected of killing her.",
+        "url": "https://www.bbc.co.uk/news/articles/c7v3q8l7r43o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/de12/live/c5b40b30-a5d6-11ef-9fb4-fd2d6da57766.jpg",
+        "publishedAt": "2024-11-18T19:37:16.4923037Z",
+        "content": "Her father described his daughter as simple and studious. He said she wanted to be a teacher and would spend her days tutoring children in their home in Delhi, before turning to her own studies.\r\nThe… [+985 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Life Wirral: Sports coach who put pupils in headlocks jailed",
+        "description": "Elliot Millar's \"cruel bullying\" behaviour and assault were uncovered by a BBC Panorama investigation.",
+        "url": "https://www.bbc.co.uk/news/articles/c0rgx7lzdreo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a2cd/live/f2d9cce0-a5ad-11ef-a06c-9dea7ee6f37e.jpg",
+        "publishedAt": "2024-11-18T18:22:17.5854271Z",
+        "content": "The footage showing Millar drawing on the boy's face was played to the court and a woman, described as management, was seen to walk past.\r\nIn a statement read to the court, the victim said he had bee… [+441 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Trump defence pick paid accuser to save Fox News job, but denies claim",
+        "description": "Pete Hegseth maintains he is innocent and says the sexual encounter in 2017 was consensual.",
+        "url": "https://www.bbc.co.uk/news/articles/c3vl63pzpwzo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7115/live/25740030-a5a9-11ef-bfe2-2bf0019b3b67.jpg",
+        "publishedAt": "2024-11-18T18:07:22.3859813Z",
+        "content": "Mr Parlatore told CBS he had spoken to Trump's transition team after Hegseth was tapped to serve as defence secretary and explained the situation surrounding the allegation. He said he was unaware of… [+1405 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Almost 100 Gaza aid lorries violently looted, UN agency Unrwa says",
+        "description": "Drivers in Saturday's convoy were forced at gunpoint to unload their food supplies, according to Unrwa.",
+        "url": "https://www.bbc.co.uk/news/articles/c5ypjd7gepmo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/efe8/live/776ddc00-a5ca-11ef-bdf5-b7cb2fa86e10.jpg",
+        "publishedAt": "2024-11-18T18:07:18.1214178Z",
+        "content": "Saturdays looting was first reported by Reuters news agency, which cited an Unrwa official in Gaza as saying that the convoy was instructed by Israeli authorities to \"depart at short notice via an un… [+2827 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Harry Kane attends statue unveiling with players from childhood club",
+        "description": "England captain returns to his Walthamstow roots for unveiling ceremony of life-size statue kept hidden for four years.",
+        "url": "https://www.bbc.co.uk/news/articles/cy4n103lxljo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9920/live/9b581ee0-a5b2-11ef-a06c-9dea7ee6f37e.jpg",
+        "publishedAt": "2024-11-18T17:22:27.910373Z",
+        "content": "England captain Harry Kane says he is \"really impressed\" with a life-size statue of himself that has been unveiled near his childhood football club in north London.\r\nThe statue was paid for by Waltha… [+432 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Diddy is calling witnesses from prison, prosecutors say",
+        "description": "The star is accused of paying inmates for their phone privileges, and trying to influence witnesses.",
+        "url": "https://www.bbc.co.uk/news/articles/c80lmpn4kk9o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6be6/live/e66f7e50-a5a8-11ef-bfe2-2bf0019b3b67.jpg",
+        "publishedAt": "2024-11-18T17:22:25.7859023Z",
+        "content": "Best known for 1990s hits such as I'll Be Missing You and Mo' Money, Mo' Problems, the musician has been denied bail since his arrest, with multiple judges citing a risk that he might tamper with wit… [+885 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Sara Sharif's stepmother and uncle not to give evidence in murder trial",
+        "description": "Beinash Batool and Faisal Malik decline to give evidence in their trial for Sara's murder.",
+        "url": "https://www.bbc.co.uk/news/articles/c8jykpkd9ydo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c946/live/c7a2e090-a26d-11ef-b7d1-01feab8933aa.jpg",
+        "publishedAt": "2024-11-18T17:22:24.1769275Z",
+        "content": "The stepmother and uncle of Sara Sharif will not give evidence in their defence during their trial for the 10-year-olds murder.\r\nAt the Old Bailey, Mr Justice Cavanagh asked if each of the defendants… [+529 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Snow and ice expected as UK braces for ‘first taste of winter’",
+        "description": "Monday saw the coldest temperatures since last winter, with minus 7.8C logged in Scotland.",
+        "url": "https://www.bbc.co.uk/news/articles/clyd9xwe33no",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/727d/live/7a7db940-a5b8-11ef-a4fe-a3e9a6c5d640.jpg",
+        "publishedAt": "2024-11-18T15:22:22.3804914Z",
+        "content": "It has warned bus and train services may be delayed or cancelled, with some road closures and longer journey times possible.\r\nTemperatures are predicted to drop to -2C in London on Friday, -4C in Bir… [+986 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "UK wants 'strong' relationship with China, says Keir Starmer",
+        "description": "The first in-person meeting since 2018 comes as the PM prioritises shoring up support for Ukraine.",
+        "url": "https://www.bbc.co.uk/news/articles/c1dp6wgk72ro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7da6/live/57245240-a5b0-11ef-b66d-1dda764fa469.jpg",
+        "publishedAt": "2024-11-18T14:22:26.3887691Z",
+        "content": "Sir Keir met President Xi on the fringes of the G20 summit in Rio de Janeiro, according to the Press Association news agency.\r\nSpeaking at the start of the meeting, the PM said: \"We want our relation… [+831 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ed Sheeran says Band Aid didn't ask to re-use his vocals",
+        "description": "The pop star says he would have refused permission, as his understanding of Western aid has changed.",
+        "url": "https://www.bbc.co.uk/news/articles/c2k03qz5jqno",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/96e7/live/a23d1aa0-a58d-11ef-ba92-adf0a1639f02.jpg",
+        "publishedAt": "2024-11-18T10:22:19.7116953Z",
+        "content": "The charity single was conceived as a way to tackle the famine that devastated Ethiopia in 1984.\r\nOver the years, the song's lyrics have been criticised for their patronising portrayal of Africa as a… [+1044 chars]"
+      }
+    ]
+  }
